@@ -1,1 +1,5 @@
+# ISO Images
 *.iso
+
+# Virtual Disks
+*.qcow2
